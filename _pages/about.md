@@ -41,6 +41,9 @@ Outline
   * Explanation
 * Tool-kits and Real-world Systems
 
+Material
+======
+[Video]()  [Slides]()
 
 Site-wide configuration
 ------
