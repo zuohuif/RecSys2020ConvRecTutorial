@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-<br/><img src='/images/first_page.jpg'>
+<br/><img src='/images/first_page_v2.png'>
 
 Abstract
 ======
