@@ -19,21 +19,29 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Outline
 ======
-Introduction and Background
-  Introduction to Conversational Recommendation
-  A Brief History of Conversational Recommendation Research
-  The New Boom in Conversational Recommendation Research
-Problem Formalization
-Datasets and Evaluation
-Conversational Recommendation Methods
-Tool-kits and Real-world Systems
+* Introduction and Background
+  * Introduction to Conversational Recommendation
+  * A Brief History of Conversational Recommendation Research
+  * The New Boom in Conversational Recommendation Research
+  
+* Problem Formalization
+  * Basic Problem Formalization
+  * Paradigm 1: System is Active, User is Passive (SAUP)
+  * Paradigm 2: System is Active, User Engages (SAUE)
+  * Paradigm 3: System is Active, User is Active (SAUA)
+  * Challenges
+* Datasets and Evaluation
+  * Frequently Used Datasets
+  * Evaluation Protocol
+* Conversational Recommendation Methods
+  * Three Architectures of Conversational AI Systems
+  * Four Major Modules for Conversational Recommendation
+  * Natural Language Understanding/Generation
+  * Dialog State Managment
+  * Recommendation
+  * Explanation
+* Tool-kits and Real-world Systems
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
