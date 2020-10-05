@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Tutorial on Conversational Recommendation Systems"
 excerpt: "About me"
 author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-
 <br/><img src='/images/first_page_v2.png'>
 
 Abstract
