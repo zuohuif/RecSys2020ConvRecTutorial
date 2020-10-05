@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-<br/><img src='/images/first_page.pdf'>
+<br/><img src='/images/first_page.png'>
 
 A data-driven personal website
 ======
