@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src='/images/mstile-144x144.png'>
+<img src='/RecSys2020ConvRecTutorial/tree/master/images/first_page_v3.png'>
 
 Abstract
 ------
