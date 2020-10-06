@@ -46,8 +46,6 @@ Material
 -->
 <img src='/RecSys2020ConvRecTutorial/images/first_page_v2.png'>
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/ekGljvAXIKE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 [Video](https://www.youtube.com/watch?v=ekGljvAXIKE)    [PDF](https://dl.acm.org/doi/pdf/10.1145/3383313.3411548)   [Slides]()
 
 Presenters
