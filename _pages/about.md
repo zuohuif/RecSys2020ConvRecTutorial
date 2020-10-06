@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tutorial on Conversational Recommendation Systems"
+title: "RecSys 2020 Tutorial"
 excerpt: "About me"
 author_profile: false
 redirect_from: 
