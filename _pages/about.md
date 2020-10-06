@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src='/images/first_page_v3.png'>
+<img src='/images/image-alignment-1200x4002.jpg'>
 
 Abstract
 ------
