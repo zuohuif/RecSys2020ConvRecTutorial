@@ -10,7 +10,8 @@ redirect_from:
 
 <img src='/images/image-alignment-1200x4002.jpg'>
 <br/>
-<img src='/images/first_page_v2.png'>
+
+![](/images/first_page_v2.png)
 
 Abstract
 ------
