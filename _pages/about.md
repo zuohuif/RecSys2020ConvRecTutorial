@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src='/images/mstile-144x144.png', width="500" height="600">
+<img src='/images/mstile-144x144.png'>
 
 Abstract
 ------
