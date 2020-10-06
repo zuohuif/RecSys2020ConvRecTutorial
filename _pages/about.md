@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-<img src='/images/image-alignment-1200x4002.jpg'>
-<br/>
-
-![](/images/first_page_v2.png)
+<!--
+<img src='/images/image-alignment-1200x4002.jpg'><br/>
+-->
+<img src='/RecSys2020ConvRecTutorial/images/first_page_v2.png'>
 
 Abstract
 ------
