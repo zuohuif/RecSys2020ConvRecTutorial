@@ -1,17 +1,12 @@
 ---
 permalink: /
-title: "RecSys 2020 Tutorial"
+title: " Tutorial on Conversational Recommendation Systems"
 excerpt: "About me"
 author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-<!--
-<img src='/images/image-alignment-1200x4002.jpg'><br/>
--->
-<img src='/RecSys2020ConvRecTutorial/images/first_page_v2.png'>
 
 Abstract
 ------
@@ -45,6 +40,12 @@ Outline
 
 Material
 ------
+
+<!--
+<img src='/images/image-alignment-1200x4002.jpg'><br/>
+-->
+<img src='/RecSys2020ConvRecTutorial/images/first_page_v2.png'>
+
 [Video]()  [Slides]()
 
 Presenters
