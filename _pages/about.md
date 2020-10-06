@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src='/RecSys2020ConvRecTutorial/tree/master/images/image-alignment-1200x4002.jpg'>
+
+<img src='/images/image-alignment-1200x4002.jpg'>
 
 Abstract
 ------
