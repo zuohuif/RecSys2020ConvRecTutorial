@@ -46,6 +46,8 @@ Material
 -->
 <img src='/Conversational-RecSys.github.io/images/first_page_v2.png'>
 
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/ekGljvAXIKE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [Video](https://www.youtube.com/watch?v=ekGljvAXIKE)    [PDF](https://dl.acm.org/doi/pdf/10.1145/3383313.3411548)   [Slides](https://www.icloud.com/attachment/?u=https%3A%2F%2Fcvws.icloud-content.com%2FB%2FAYvecfzt7ceoqYxQKhmwh0vyjkiSAYb1c2lu3HNp1T77vAjVuVGszVA_%2F%24%7Bf%7D%3Fo%3DAly9XGMkmmEpHVC62Lup8XdvsI7I5vOV3Rw_CtfFN30k%26v%3D1%26x%3D3%26a%3DCAog-S8kLHe0geKp9uQR-G8Ip1-ypX_lqzHMUtyccSELLskSdxD4svvyzy4Y-ML2xtkuIgEAKggByAD_M1u2olIE8o5IkloErM1QP2omoVzdHaz-fgN1mMh0MVaKQPgLUnyzn_Cy2Y6pz74QcGXPx54Th4NyJu1n4M6xO02mhGJfbPGbVBAdziiRj7621zzsl8CRag-c-4BxxUAu%26e%3D1604587463%26fl%3D%26r%3DAC17FC7D-5634-467A-B0BB-B8417CA39B80-1%26k%3D%24%7Buk%7D%26ckc%3Dcom.apple.largeattachment%26ckz%3D37C2DAD3-A14D-4F0D-BA2A-CACBA5589093%26p%3D71%26s%3D2OAF-cCvJjmIGMCixjrIDA6wwqk&uk=WwkZkuSUw4xoe4SDdJOuCw&f=Tutorial%20on%20Conversational%20Recommendation%20Systems.pdf&sz=31547812)
 
 Presenters
