@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<img src='/Conversational-RecSys.github.io/images/Rio-1000x180.jpg'>
+
 Abstract
 ------
 Recent years have witnessed the emerging of conversational systems, including both physical devices and mobile-based applications. Both the research community and industry believe that conversational systems will have a major impact on human-computer interaction, and specifically, the RecSys community has begun to
