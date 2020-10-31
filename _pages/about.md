@@ -43,10 +43,8 @@ Outline
 Material
 ------
 
-<
-<img src='/images/image-alignment-1200x4002.jpg'><br/>
+<!--img src='/images/image-alignment-1200x4002.jpg'><br/-->
 <img src='/Conversational-RecSys.github.io/images/first_page_v2.png'>
->
 
 <!--iframe width="1280" height="720" src="https://www.youtube.com/embed/ekGljvAXIKE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe-->
 
