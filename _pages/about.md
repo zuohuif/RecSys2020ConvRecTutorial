@@ -44,7 +44,10 @@ Material
 ------
 
 <!--img src='/images/image-alignment-1200x4002.jpg'><br/-->
-<img src='../images/first_page_v2.png'>
+<img style="border:1px solid black;" src='../images/first_page_v2.png'>
+
+<!--img style="border:1px solid black;" src="//www.html.am/images/image-codes/milford_sound_t.jpg" width="225" height="151" alt="Photo of Milford Sound in New Zealand" /-->
+
 
 <!--iframe width="1280" height="720" src="https://www.youtube.com/embed/ekGljvAXIKE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe-->
 
